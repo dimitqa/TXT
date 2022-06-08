@@ -1,1 +1,11 @@
-
+Bug Name Application crashes upon clicking the SAVE button while creating a new user
+Bug ID 220606
+Build Number Version Number 5.0.1
+Severity HIGH
+Priority HIGH
+Assigned to Developer-Dmitry
+Reported By dimitqa
+Reported On 06.06.2022
+Reason Defect
+Status New
+Environment Windows 10
