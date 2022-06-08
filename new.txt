@@ -1,0 +1,4 @@
+Surname : Chugunov
+Name : Dmitry
+Number_of_Pets : 1
+Desired_Salary : 1500000
