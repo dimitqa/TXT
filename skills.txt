@@ -1,0 +1,9 @@
+Skill_1 Git
+Skill_2 GitHub
+Skill_3 Linux
+Skill_4 АРI
+Skill_5 Postman
+Skill_6 DevTools
+Skill_7 Charles
+Skill_8 JMeter
+Skill_9 Fiddler
